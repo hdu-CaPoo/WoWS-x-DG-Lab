@@ -7,5 +7,7 @@
 (为了方便小白在本地部署，所有环境封装在了requirements.txt。只需要pip install -r requirements.txt即可
 
 更新日志：
+
 2025.08.22 V1.0：
-  初步实现基本功能，验证可行性
+
+初步实现基本功能，验证可行性
