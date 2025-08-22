@@ -1,0 +1,5 @@
+train: /root/dataset_0189862/train
+val: /root/dataset_0189862/val
+test: /root/dataset_0189862/test
+nc: 3
+names: ['1fire', '2fire', '3fire']
